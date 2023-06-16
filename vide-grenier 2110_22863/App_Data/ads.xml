@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <!-- Banner Advertisements -->
+  <Ad>
+    <ImageUrl>~/images/kfc.jpg</ImageUrl>
+    <Width>175</Width>
+    <Height>260</Height>
+    <NavigateUrl>http://www.kfc.com/</NavigateUrl>
+    <AlternateText>Banner Advertisement 1</AlternateText>
+    <Impressions>20</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/image/co.jpg</ImageUrl>
+    <Width>175</Width>
+    <Height>260</Height>
+    <NavigateUrl>https://www.coca-colacompany.com/</NavigateUrl>
+    <AlternateText>Banner Advertisement 2</AlternateText>
+    <Impressions>20</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/image/fi.jpeg</ImageUrl>
+    <Width>175</Width>
+    <Height>260</Height>
+    <NavigateUrl>https://www.fifa.com/</NavigateUrl>
+    <AlternateText>Banner Advertisement 3</AlternateText>
+    <Impressions>20</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/image/in.jpeg</ImageUrl>
+    <Width>175</Width>
+    <Height>260</Height>
+    <NavigateUrl>https://www.instagram.com/</NavigateUrl>
+    <AlternateText>Banner Advertisement 4</AlternateText>
+    <Impressions>40</Impressions>
+  </Ad>
+</Advertisements>
